@@ -12,7 +12,8 @@
   "dependencies": {
     "bootstrap": "^4.4.1",
     "express": "^4.17.1",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "body-parser": "latest"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
