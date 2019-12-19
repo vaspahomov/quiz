@@ -9,7 +9,7 @@ app.use(express.static(path.join(rootDir, "static")));
 app.use(bodyParser.json());
 
 app.get('/', function (req, res) {
-    res.sendFile(path.join(rootDir, 'static/index.html'));
+    res.sendFile(path.join(rootDir, 'public/index.html'));
 });
 
 class QuestionData {

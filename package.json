@@ -5,7 +5,26 @@
   "main": "index.html",
   "scripts": {
     "start": "nodemon server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-front": "react-scripts start",
+    "build-front": "react-scripts build",
+    "test-front": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   },
   "author": "",
   "license": "ISC",
@@ -13,7 +32,11 @@
     "bootstrap": "^4.4.1",
     "express": "^4.17.1",
     "path": "^0.12.7",
-    "body-parser": "latest"
+    "body-parser": "latest",
+    "react": "^16.12.0",
+    "react-bootstrap": "^1.0.0-beta.16",
+    "react-dom": "^16.12.0",
+    "react-scripts": "3.3.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
