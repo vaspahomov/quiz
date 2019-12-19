@@ -5,11 +5,11 @@ const app = express();
 
 
 const rootDir = process.cwd();
-app.use(express.static(path.join(rootDir, "static")));
+app.use(express.static(path.join(rootDir, "build")));
 app.use(bodyParser.json());
 
 app.get('/', function (req, res) {
-    res.sendFile(path.join(rootDir, 'public/index.html'));
+    res.sendFile(path.join(rootDir, 'build/index.html'));
 });
 
 class QuestionData {
