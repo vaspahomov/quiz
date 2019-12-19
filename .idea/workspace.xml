@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c545d8a-b3f1-43a2-95f1-45fac0532104" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/static/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../11.space-y/index.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../11.space-y/index.mjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../11.space-y/public/client.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../11.space-y/public/client.mjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../11.space-y/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../11.space-y/public/index.html" afterDir="false" />
@@ -10,6 +9,7 @@
       <change beforePath="$PROJECT_DIR$/../12.place/client/picker.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../12.place/client/picker.mjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../12.place/server.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../12.place/server.mjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576729632463</updated>
-      <workItem from="1576729634297" duration="2580000" />
+      <workItem from="1576729634297" duration="2940000" />
     </task>
     <servers />
   </component>
