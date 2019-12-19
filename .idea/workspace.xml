@@ -8,7 +8,8 @@
       <change beforePath="$PROJECT_DIR$/../12.place/client/index.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../12.place/client/index.mjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../12.place/client/picker.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../12.place/client/picker.mjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../12.place/server.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../12.place/server.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore " beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -61,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576729632463</updated>
-      <workItem from="1576729634297" duration="566000" />
+      <workItem from="1576729634297" duration="685000" />
     </task>
     <servers />
   </component>
