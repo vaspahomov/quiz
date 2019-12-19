@@ -8,8 +8,10 @@
       <change beforePath="$PROJECT_DIR$/../12.place/client/index.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../12.place/client/index.mjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../12.place/client/picker.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../12.place/client/picker.mjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../12.place/server.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../12.place/server.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +40,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="13.3.0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
@@ -63,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576729632463</updated>
-      <workItem from="1576729634297" duration="685000" />
+      <workItem from="1576729634297" duration="1055000" />
     </task>
     <servers />
   </component>
@@ -75,5 +78,25 @@
       <screen x="0" y="27" width="1600" height="873" />
     </state>
     <state x="494" y="236" width="601" height="397" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1600.873@0.27.1600.873" timestamp="1576729770845" />
+    <state width="1600" height="245" key="GridCell.Tab.0.bottom" timestamp="1576730391312">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1600" height="245" key="GridCell.Tab.0.bottom/0.27.1600.873@0.27.1600.873" timestamp="1576730391312" />
+    <state width="1600" height="245" key="GridCell.Tab.0.center" timestamp="1576730391310">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1600" height="245" key="GridCell.Tab.0.center/0.27.1600.873@0.27.1600.873" timestamp="1576730391310" />
+    <state width="1600" height="245" key="GridCell.Tab.0.left" timestamp="1576730391309">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1600" height="245" key="GridCell.Tab.0.left/0.27.1600.873@0.27.1600.873" timestamp="1576730391309" />
+    <state width="1600" height="245" key="GridCell.Tab.0.right" timestamp="1576730391311">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1600" height="245" key="GridCell.Tab.0.right/0.27.1600.873@0.27.1600.873" timestamp="1576730391311" />
+    <state x="464" y="191" key="run.anything.popup" timestamp="1576730554562">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="464" y="191" key="run.anything.popup/0.27.1600.873@0.27.1600.873" timestamp="1576730554562" />
   </component>
 </project>
